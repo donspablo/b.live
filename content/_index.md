@@ -1,5 +1,5 @@
 ---
-title: 'b.live: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'b.live: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 b.live is under construction."
 ---
 
